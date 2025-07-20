@@ -43,7 +43,7 @@ Make an authenticated GET request to Supabase REST API to retrieve emails.
 
 ### 4️⃣ HTTP Headers  
 The request contains essential headers: `apikey`, `Authorization`, and `Accept`.  
-![HTTP Headers](screenshots/httpsHeadersRPA.png)  
+![HTTP Headers](screenshots/httpHeadersRPA.png)  
 > **Note:** Replace with your anon key.
 
 ---
